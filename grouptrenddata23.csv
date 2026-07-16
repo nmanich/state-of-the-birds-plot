@@ -1,0 +1,25 @@
+Group,Index,Year,Image,Color,LabelName
+Aerial Insectivores,0,1997,Blank1x1.svg,#F28C28,
+Birds of prey,0,1997,Blank1x1.svg,#CC6677,
+Boreal birds,0,1997,Blank1x1.svg,#117733,
+Colonial waterbirds,0,1997,Blank1x1.svg,#888888,
+Exotic birds,0,1997,Blank1x1.svg,#332288,
+Grassland birds,0,1997,Blank1x1.svg,#AA4499,
+Northern forest birds,0,1997,Blank1x1.svg,#52BCA3,
+Shrubland birds,0,1997,Blank1x1.svg,#999933,
+Southern forest birds,0,1997,Blank1x1.svg,#882255,
+Waterfowl,0,1997,Blank1x1.svg,#661100,
+Wetland birds,0,1997,Blank1x1.svg,#6699CC,
+Widespread species,0,1997,Blank1x1.svg,black,
+Aerial Insectivores,-7.577777778,2017,chswhor.png,#F28C28,Aerial insectivores
+Birds of prey,13.32777778,2017,pefar.png,#CC6677,Raptors
+Boreal birds,-42.06428571,2017,caja.svg,#117733,Boreal birds
+Colonial waterbirds,-34.36,2017,blte2rt.png,#888888,Colonial waterbirds*
+Exotic birds,18.46,2017,ropi.svg,#332288,Exotic birds
+Grassland birds,-22.64375,2017,upsar.png,#AA4499,Grassland birds
+Shrubland birds,10.24705882,2017,nomo.svg,#999933,Shrubland birds
+Southern forest birds,9.683333333,2017,carwsm.png,#882255,Southern forest birds
+Waterfowl,-4.1625,2017,nsho.svg,#661100,Waterfowl
+Wetland birds,3,2017,amco2smr.png,#6699CC,Wetland birds
+Widespread species,1.886666667,2017,amro.svg,black,Generalists
+Northern forest birds,0.428125,2017,brcrsm4.png,#52BCA3,Northern forest birds
